@@ -1,0 +1,9 @@
+{
+	"name": "adf-fmu-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d4cd1083-4f6d-4d5d-b946-a792e583635a",
+		"tenantId": "d55f6b89-e844-4c2b-b069-ef293ba546ff"
+	}
+}
